@@ -1,7 +1,7 @@
 === Facebook Open Graph update ===
 Contributors: skithund  
-Tags: facebook, opengraph  
-Requires at least: 2.7.0  
+Tags: facebook, opengraph, open graph, og, graph api  
+Requires at least: 2.8.0  
 Tested up to: 4.2.2  
 Stable tag: trunk  
 License: GPLv3  
@@ -11,7 +11,7 @@ Updates Facebook Open Graph when publishing or updating a post.
 
 == Description ==
 
-Updates Facebook Open Graph when publishing or updating a post.
+Updates Facebook Open Graph when publishing or updating a post. Also known as "Facebook scraping".
 
 == Installation ==
 
